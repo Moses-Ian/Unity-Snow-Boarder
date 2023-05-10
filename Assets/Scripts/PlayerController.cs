@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    float torqueAmount = 5;
+    float torqueAmount = 10;
     Rigidbody2D rb2d;
 
     // Start is called before the first frame update
